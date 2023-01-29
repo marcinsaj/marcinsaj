@@ -5,8 +5,10 @@
 The library allows you to easily control displays connected in series. You can connect up to 8 different displays in any order.  
 ✔️ Repository: https://github.com/marcinsaj/FlipDisc  
 
-![](https://github.com/marcinsaj/marcinsaj/blob/main/project-cover.jpg)
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="marcinsaj" data-color="#75b8fa" data-emoji=""  data-font="Lato" data-text="BUY ME A COFFEE" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/marcinsaj"><img src="https://img.buymeacoffee.com/button-api/?text=BUY ME A COFFEE&emoji=&slug=marcinsaj&button_colour=75b8fa&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 </br></br>
+
+![](https://github.com/marcinsaj/marcinsaj/blob/main/project-cover.jpg)
 
 
