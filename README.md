@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/marcinsaj/marcinsaj/blob/main/flip-disc-displays.jpg">
 <!--
 **marcinsaj/marcinsaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
