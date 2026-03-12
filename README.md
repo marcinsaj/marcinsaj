@@ -8,5 +8,5 @@ Currently working on:
 - Modular Nixie Tube Clock
 
 Latest projects:
-- [Modular Flip-disc Clock](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display)
+- [Modular Flip-Disc Clock](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display)
 - [Binary Flip-Disc Clock](https://github.com/marcinsaj/Flipo-Binary-Clock-2x6-Flip-Disc-Display)
