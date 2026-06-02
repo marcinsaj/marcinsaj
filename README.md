@@ -4,8 +4,7 @@ I build hardware projects with flip-disc displays and Nixie tubes — mainly clo
 - [nixietester.com](https://nixietester.com)
 
 Currently working on:
-- Morse Code Flip-Disc Clock
-- Modular Nixie Tube Clock
+- [MORSEDOT - Flip Dot Clock](https://www.kickstarter.com/projects/marcinsaj/morsedot-clock)
 
 Latest projects:
 - [Modular Flip-Disc Clock](https://github.com/marcinsaj/Flipo-Modular-Clock-4x3x3-Flip-Disc-Display)
